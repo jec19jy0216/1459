@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Java");
 		System.out.println("HTML5");
 		System.out.println("Java");
+		System.out.println("HTML5");
 	}
 
 }
